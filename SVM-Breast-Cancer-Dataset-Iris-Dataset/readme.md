@@ -1,0 +1,3 @@
+# Support Vector Machines (SVM) Lab
+
+This laboratory exercise explored **Support Vector Machines (SVM)** for classification and regression tasks across multiple datasets. The project included binary classification on **breast cancer** and **iris datasets**, and **polynomial regression** using support vector regression (SVR). Key techniques involved feature selection, data scaling, hyperparameter tuning, and performance evaluation using accuracy and mean squared error metrics. The lab demonstrated the impact of feature scaling and the importance of parameter optimization in machine learning models.
