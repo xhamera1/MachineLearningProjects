@@ -1,2 +1,10 @@
-# MachineLearningProjects
-Repository contains all the machine learning projects i have been currently working on
+
+# Machine Learning Projects
+
+This repository contains a series of machine learning laboratory exercises exploring various techniques and datasets. Projects include:
+
+1. California Housing Data Analysis: Data visualization, correlation analysis, and preprocessing of housing dataset
+2. MNIST Digit Classification: Binary and multi-class image classification using SGD
+3. Regression Techniques Comparison: Exploring linear, KNN, and polynomial regression on synthetic data
+
+Each lab focuses on different machine learning concepts, preprocessing techniques, model training, and evaluation using scikit-learn and related libraries.
