@@ -1,0 +1,3 @@
+# Regression Techniques Comparison Lab
+
+This laboratory exercise explored various **regression** techniques for predicting a synthetic polynomial function, including **linear regression**, **K-Nearest Neighbors (KNN) regression** with different neighbor counts, and **polynomial regression** of varying degrees. The project involved generating a synthetic dataset, splitting it into training and testing sets, and comparing model performance using **mean squared error (MSE)** metrics across different regression approaches. Key outputs included visualizations of model fits and serialized model performance data.
