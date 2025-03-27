@@ -1,0 +1,15 @@
+atrybut,wspolczynnik_korelacji
+median_house_value,1.0
+median_income,0.6880752079585577
+ocean_proximity_<1H OCEAN,0.2566168362300139
+ocean_proximity_NEAR BAY,0.16028448367166975
+ocean_proximity_NEAR OCEAN,0.14186216979619423
+total_rooms,0.1341531138065627
+housing_median_age,0.10562341249321065
+households,0.0658426505700564
+total_bedrooms,0.0496861802473462
+ocean_proximity_ISLAND,0.023416076436869337
+population,-0.024649678888894865
+longitude,-0.0459666151179817
+latitude,-0.1441602768746574
+ocean_proximity_INLAND,-0.4848593346486693

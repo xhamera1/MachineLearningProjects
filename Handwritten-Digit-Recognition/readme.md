@@ -1,0 +1,3 @@
+# MNIST Digit Classification Lab
+
+This machine learning laboratory exercise focused on digit classification using the **MNIST** dataset, implementing **Stochastic Gradient Descent (SGD) classification**. The project involved loading the MNIST handwritten digit images, preprocessing the data, splitting it into training and testing sets, and developing both binary (0 vs. non-0) and multi-class classification models. Key tasks included data exploration, model training, accuracy evaluation using cross-validation, and generating confusion matrices. The primary algorithms used were from scikit-learn, specifically SGDClassifier, with performance metrics demonstrating high accuracy in digit recognition across different classification approaches.
