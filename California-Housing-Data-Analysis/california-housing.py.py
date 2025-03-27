@@ -14,7 +14,7 @@ Original file is located at
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('/data/housing.csv.gz')
+df = pd.read_csv('housing.csv.gz')
 # df to struktura dataframe przypominajaca tabele
 
 df.head() # pierwsze 5 wuerszy
