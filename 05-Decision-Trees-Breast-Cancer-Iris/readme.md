@@ -1,0 +1,3 @@
+# Decision Trees Lab
+
+This laboratory exercise explored **Decision Trees** for classification and regression tasks. For classification, the project used the **breast cancer dataset** with features 'mean texture' and 'mean symmetry', evaluating performance with F1 score and accuracy metrics. For regression, a **synthetic polynomial dataset** was used to predict continuous values. Key techniques included hyperparameter tuning through GridSearchCV to find optimal tree depths, visualization of decision boundaries, and model evaluation. The lab demonstrated how decision tree performance varies with tree depth, highlighting the trade-off between model complexity and overfitting, with comparative analysis against other regression techniques.
