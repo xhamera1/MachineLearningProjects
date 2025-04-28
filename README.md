@@ -8,5 +8,6 @@ This repository contains a series of machine learning laboratory exercises explo
 4.  **Support Vector Machines Lab:** Classification and regression using SVM techniques on breast cancer, iris, and synthetic datasets.
 5.  **Decision Trees for Classification and Regression:** Implementation of decision tree algorithms on the breast cancer dataset for classification and on synthetic polynomial data for regression.
 6.  **Ensemble Learning Methods:** Exploration and comparison of ensemble techniques (Voting Classifiers, Bagging, Pasting, Random Forests, AdaBoost, Gradient Boosting) for classification tasks, primarily using the breast cancer dataset.
+7.  **Unsupervised Clustering (K-Means, DBSCAN):** Clustered the MNIST dataset via K-Means and DBSCAN, focusing on Silhouette evaluation and distance-based eps parameter estimation.
 
 Each lab focuses on different machine learning concepts, preprocessing techniques, model training, and evaluation using scikit-learn and related libraries.
