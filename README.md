@@ -11,5 +11,6 @@ This repository contains a series of machine learning laboratory exercises explo
 7.  **Unsupervised Clustering (K-Means, DBSCAN):** Clustered the MNIST dataset via K-Means and DBSCAN, focusing on Silhouette evaluation and distance-based eps parameter estimation.
 8.  **Dimensionality Reduction (PCA):** Application of Principal Component Analysis (PCA) for dimensionality reduction on the Iris and Breast Cancer datasets, comparing results on original versus scaled data, aiming to preserve at least 90% of variance with the minimum number of dimensions.
 9.  **Neural Networks with Keras:** Building, training, and visualizing neural networks using the Keras Sequential API for image classification (Fashion MNIST) and regression (California Housing), incorporating TensorBoard and early stopping.
+10. **Hyperparameter Tuning for Neural Networks:** Explored the impact of hyperparameters (learning rate, number of hidden layers, neurons per layer, optimizer) on neural network performance for the California Housing dataset. Automated hyperparameter search was performed using scikit-learn with a scikeras wrapper (`RandomizedSearchCV`) and Keras Tuner.
 
 Each lab focuses on different machine learning concepts, preprocessing techniques, model training, and evaluation using scikit-learn and related libraries.
