@@ -10,5 +10,6 @@ This repository contains a series of machine learning laboratory exercises explo
 6.  **Ensemble Learning Methods:** Exploration and comparison of ensemble techniques (Voting Classifiers, Bagging, Pasting, Random Forests, AdaBoost, Gradient Boosting) for classification tasks, primarily using the breast cancer dataset.
 7.  **Unsupervised Clustering (K-Means, DBSCAN):** Clustered the MNIST dataset via K-Means and DBSCAN, focusing on Silhouette evaluation and distance-based eps parameter estimation.
 8.  **Dimensionality Reduction (PCA):** Application of Principal Component Analysis (PCA) for dimensionality reduction on the Iris and Breast Cancer datasets, comparing results on original versus scaled data, aiming to preserve at least 90% of variance with the minimum number of dimensions.
+9.  **Neural Networks with Keras:** Building, training, and visualizing neural networks using the Keras Sequential API for image classification (Fashion MNIST) and regression (California Housing), incorporating TensorBoard and early stopping.
 
 Each lab focuses on different machine learning concepts, preprocessing techniques, model training, and evaluation using scikit-learn and related libraries.
