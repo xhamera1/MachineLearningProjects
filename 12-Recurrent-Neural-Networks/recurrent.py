@@ -190,8 +190,8 @@ print(scaled_mae)
 # %%
 model.save('model_linear.keras')
 
-mae_linear = (scaled_mae)
-with open(' mae_linear.pkl', 'wb') as file:
+mae_linear = (scaled_mae,)
+with open('mae_linear.pkl', 'wb') as file:
     pickle.dump(mae_linear, file)
 
 
@@ -228,7 +228,7 @@ print(scaled_mae)
 
 
 # %%
-mae_rnn1 = (scaled_mae)
+mae_rnn1 = (scaled_mae,)
 
 with open('mae_rnn1.pkl', 'wb') as file:
     pickle.dump(mae_rnn1, file)
@@ -262,7 +262,7 @@ print(scaled_mae)
 # %%
 model.save('model_rnn32.keras')
 
-mae_rnn32 = (scaled_mae)
+mae_rnn32 = (scaled_mae,)
 
 with open('mae_rnn32.pkl', 'wb') as file:
     pickle.dump(mae_rnn32, file)
@@ -302,7 +302,7 @@ print(scaled_mae)
 # %%
 model.save('model_rnn_deep.keras')
 
-mae_rnn_deep = (scaled_mae)
+mae_rnn_deep = (scaled_mae,)
 with open('mae_rnn_deep.pkl', 'wb') as file:
     pickle.dump(mae_rnn_deep, file)
 
@@ -369,7 +369,7 @@ print(scaled_mae)
 # %%
 model.save('model_rnn_mv.keras')
 
-mae_rnn_mv = (scaled_mae)
+mae_rnn_mv = (scaled_mae,)
 with open('mae_rnn_mv.pkl', 'wb') as file:
     pickle.dump(mae_rnn_mv, file)
 
